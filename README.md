@@ -44,15 +44,15 @@
 
    Создайте файл в корневой директории и добавьте следующие параметры:
    ```env
-  DATABASE_HOST=localhost
-  DATABASE_PORT=5432
-  DATABASE_USERNAME=postgres
-  DATABASE_PASSWORD=your_password
-  DATABASE_NAME=auth_service
-  JWT_SECRET=your_jwt_secret
-  ACCESS_TOKEN_EXPIRATION=1h
-  REFRESH_TOKEN_EXPIRATION=7d
-  JWT_EXPIRATION=1h
+    DATABASE_HOST=localhost
+    DATABASE_PORT=5432
+    DATABASE_USERNAME=postgres
+    DATABASE_PASSWORD=your_password
+    DATABASE_NAME=auth_service
+    JWT_SECRET=your_jwt_secret
+    ACCESS_TOKEN_EXPIRATION=1h
+    REFRESH_TOKEN_EXPIRATION=7d
+    JWT_EXPIRATION=1h
    ```
 4. **Настройте базу данных:**
 
