@@ -90,8 +90,8 @@
 
 ```json
 {
-  "accessToken": "eyJhbGciOiJIUzI1NiIs...",
-  "refreshToken": "eyJhbGciOiJIUzI1NiIs..."
+  "accessToken": "eyJhbGciOiJUzI1NiIs...",
+  "refreshToken": "eyJhbGiOiJIUzI1NiIs..."
 }
 ```
 
